@@ -1,0 +1,3 @@
+.table { width: 100%; border-collapse: collapse; } 
+.table-header { background-color: lightgrey; font-weight: bold; text-align: center; padding: 8px; border: 1px solid black; } 
+.table-cell { padding: 8px; border: 1px solid black; text-align: center; }

@@ -1,0 +1,28 @@
+const {Client} = require('pg');
+
+let data=[];
+
+const client=new Client({
+user:'postgres',
+host:'localhost',
+database:'postgres',
+password:'root123',
+port:5432, 
+});
+
+client.connect();
+
+
+client.query('SELECT * FROM saidi',(err,res)=>{
+    if(err)
+    {
+    console.log("Erroorrr");       
+    }
+    else{
+    data.push(res.rows);
+    // console.log(res.json());    
+    }
+    client.end();
+})
+
+module.exports=data;

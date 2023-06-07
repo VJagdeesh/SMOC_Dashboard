@@ -1,0 +1,180 @@
+.filterOuterDiv{
+    /* border-style:solid; */
+    /* border-color: black; */
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 20px 20px 20px 20px;
+    background-color:white;
+    border-radius: 10px;
+
+}
+
+.stateDiv{
+    margin: 28px !important;
+    width: 20% !important;
+    /* padding-top: 30px;
+    padding-left: 40px !important;
+    padding-right: 40px !important;
+    padding-bottom: 50px;
+     */
+}
+
+.cityDiv{
+    margin: 28px !important;
+    width: 20% !important;
+    /* padding-top: 30px;
+    padding-left: 40px !important;
+    padding-bottom: 50px;
+    width: 250px !important; */
+}
+
+.discomDiv{
+    margin: 28px !important;
+    width: 20% !important;
+    /* padding-top: 30px;
+    padding-left: 40px !important;
+    padding-bottom: 50px;
+    width: 250px !important; */
+}
+
+.divisionDiv{
+    margin: 28px !important;
+    width: 20% !important;
+    /* padding-top: 30px;
+    padding-left: 40px !important;
+    padding-bottom: 50px;
+    padding-right: 40px;
+    width: 250px !important; */
+}
+
+.subdivisionDiv{
+    margin: 28px !important;
+    width: 20% !important;
+    /* padding-top: 30px;
+    padding-left: 40px !important;
+    padding-bottom: 50px;
+    width: 250px !important; */
+}
+
+.substationDiv{
+    margin: 28px !important;
+    width: 20% !important;
+    /* padding-top: 30px;
+    padding-left: 40px !important;
+    padding-bottom: 50px;
+    width: 250px !important; */
+}
+
+input[type="date"] {
+    border-radius: 0 !important;
+
+  }
+  
+
+.inputdateDiv{
+    margin: 28px !important;
+    width: 20% !important;
+    /* padding-top: 30px;
+    padding-left: 40px !important;
+    padding-bottom: 50px;
+    width: 250px !important;
+    */
+    /* width: 80px; */
+}
+
+.agingslabDiv{
+    margin: 28px !important;
+    width: 20% !important;
+    /* padding-top: 30px;
+    padding-left: 40px !important;
+    padding-bottom: 50px;
+    padding-right: 40px;
+    width: 250px !important; */
+}
+
+.apply-btn{
+    margin-left: 280px !important;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 150px !important;
+
+}
+
+.reset-btn{
+    
+    margin-right: 280px !important;
+    margin-top: 20px;
+    margin-bottom: 20px;    
+    width: 150px !important;
+    
+}
+
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+ } 
+.table-header {
+    background-color: lightgrey;
+    font-weight: bold;
+    text-align: center;
+    padding: 8px;
+    border: 1px solid black; 
+} 
+.table-cell {
+    padding: 8px; 
+    border: 1px solid black; 
+    text-align: center; 
+}
+
+.outerDiv {
+    margin-top: 60px;
+    margin-bottom: 40px;
+    /* background-color: aqua; */
+    /* padding: 20px 30px 20px 30px;
+    border: 1px solid #E9E8E8; */
+    /* background-color: #E9E8E8; */
+    }
+    
+.tableDiv {
+    /* margin-top: 60px; */
+    /* background-color:#E3F6FF; */
+    border: 1px solid black;
+
+
+}
+    
+/* .pieDiv {
+    margin-top: 100px;
+    
+
+}  */
+
+.legendTitle {
+    /* position: absolute; */
+    left: 1950px;
+    top: -55px;
+    /* display: inline; */
+    font-size: 14px;
+    white-space: nowrap;
+    }
+    
+.pieChart {
+    /* background-color: blueviolet; */
+    border: 1px solid;
+    border-color: black;
+    /* position: absolute; 
+    left: -70px; */
+}
+
+.subtableDiv{
+    margin-top: 260px !important;
+    margin-left: -70px;
+}
+
+
+    
+    
+    
+    
+    

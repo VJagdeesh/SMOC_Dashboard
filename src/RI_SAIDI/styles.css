@@ -1,0 +1,33 @@
+.apply-btn{
+    margin-left: 100px !important;
+    margin-bottom: 5px;
+    width: 150px !important;
+
+}
+
+.reset-btn{
+    
+    margin-left: 280px !important;
+    margin-bottom: 5px;    
+    width: 150px !important;
+    
+}
+
+.heading{
+display: flex;
+justify-content: center;
+}
+
+.tabletop
+{
+top: 5px;    
+}
+
+.oddbackground{
+    background-color: #B3E5BE;    
+    
+}
+
+.evenbackground{
+    background-color: white;
+}
